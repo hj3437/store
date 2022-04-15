@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">스토어</string>
+    <string name="search">검색</string>
+    <string name="login">로그인</string>
+    <string name="close_search">검색창 종료</string>
+    <string name="search_store">검색하기</string>
+    <string name="store">store</string>
+    <string name="password">비밀번호</string>
+    <string name="id">아이디</string>
+    <string name="cancel">취소</string>
+    <string name="login_fail">로그인 실패</string>
+    <string name="login_error">로그인 에러</string>
+    <string name="login_success">로그인 성공</string>
+    <string name="preference_user_key">logined_user</string>
+    <string name="saved_user_login_key">logined_user_save</string>
+    <string name="logout">로그아웃</string>
+    <string name="menu_delete">삭제</string>
+    <string name="menu_edit">편집</string>
+    <string name="ask_user_store_delete">삭제하시겠습니까?</string>
+    <string name="ask_user_store_edit">편집하시겠습니까?</string>
+    <string name="store_search">스토어 검색</string>
+    <string name="refresh">새로고침</string>
+    <string name="save">저장</string>
+    <string name="store_image_url">이미지 URL</string>
+    <string name="store_address">주소</string>
+    <string name="store_name">스토어 이름</string>
+    <string name="store_new">새스토어 생성</string>
+    <string name="store_item_name">메뉴명</string>
+    <string name="store_item_price">가격</string>
+</resources>
