@@ -31,10 +31,13 @@ IntelliJ IDE로 restapi_store 프로젝트 import 이후 StoreApplication 실행
 또는 build>bootJar로 빌드 후 java -jar \build\libs\store-0.0.1-SNAPSHOT.jar 입력하여 실행합니다.  
 
 ## store
-Visual Studio Code에서 Live Server Extension으로 실행할 수 있습니다. 
+Visual Studio Code 설치 : https://code.visualstudio.com  
+프로젝트 open 및 Live Server Extension 설치후 실행
 
 ## android_store
-Android Studio IDE에서 프로젝트 import 후 실행할 수 있습니다. 
+
+- Android Studio 설치 : https://developer.android.com/studio  
+- 안드드로이드 스튜디오 IDE에서 프로젝트 import 이후 빌드와 실행을 할 수 있습니다. 
 
 # 영상
 [스토어_웹](https://youtu.be/Ih112A__cng)  
