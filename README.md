@@ -41,5 +41,5 @@ IntelliJ IDE로 restapi_store 프로젝트 import 이후 StoreApplication 실행
 안드드로이드 스튜디오 IDE에서 프로젝트 import 이후 빌드와 실행을 할 수 있습니다. 
 
 # 영상
-[스토어_웹](https://youtu.be/Ih112A__cng)  
-[스토어_모바일](https://youtu.be/2OjkLKymoE4)  
+[스토어_웹 실행](https://youtu.be/Ih112A__cng)  
+[스토어_안드로이드 실행](https://youtu.be/2OjkLKymoE4)  
